@@ -14,10 +14,11 @@ Make reading more active and fun by letting you test your comprehension right af
 ---
 
 ## 📦 How to Install (Android)
-1. Download the `app-release.apk` from the **Assets** section below.
-2. Open it on your phone.
-3. If prompted, allow installation from unknown sources.
-4. Tap **Install** and start using Wise Squirrel.
+1. Scroll up to the top of this page and click **Releases** (or use the direct link I send you)
+2. Open the latest release  
+3. Under **Assets**, tap on `app-release.apk` to download  
+4. Open the file on your phone, allow installation if prompted, then tap **Install**
+
 
 ---
 
