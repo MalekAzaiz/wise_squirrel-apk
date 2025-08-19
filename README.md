@@ -25,3 +25,14 @@ Make reading more active and fun by letting you test your comprehension right af
 ## 💬 Feedback
 Your thoughts help make Wise Squirrel even smarter.  
 Share your ideas, bugs, or suggestions any time.
+
+
+## News : 
+- Google sign in on web app
+- Give anonymous feedback
+- Check evaluation parameters before generating the eval 
+- Add a new book inside the evaluation setup page
+- Generate eval up to 3 times to avoid JSON formatting errors
+- waking render at app launch
+- Expand the explanation field while showing results
+
